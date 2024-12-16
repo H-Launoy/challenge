@@ -1,0 +1,412 @@
+[
+  {
+    "S1IDE": {
+      "MMAT": "70001041",
+      "CIVILITE": "",
+      "LNCODECOM": "",
+      "LNNOMCOM": "",
+      "DNAISS": "",
+      "DSITFAM": "",
+      "LNDPT": "",
+      "NATIONAL": "",
+      "NOM1": "",
+      "NOMJF": "",
+      "NUMNAT": "",
+      "LNPAYS": "",
+      "PRENOM1": "",
+      "SEXE": "",
+      "SITFAM": ""
+    },
+    "S1ADR": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "ADRBIS": "",
+      "ADRVILLE": "",
+      "CPAM": "",
+      "ADRINSEE": "",
+      "ADRCPOS": "",
+      "ADRCOMM": "",
+      "ADRCOMP": "",
+      "ADRMAIL": "",
+      "ADRNUM": "",
+      "ADRPAYS": "",
+      "ADRRUE": "",
+      "ADRTEL1": "",
+      "ADRMOB": ""
+    },
+    "S1CONTRAT": {
+      "MMAT": "7000104",
+      "DDEB": "2023-05-19",
+      "DFIN": "2023-05-19",
+      "DANC1": "2023-05-19",
+      "DANC2": "2023-05-19",
+      "DSOLDE": "2023-05-19",
+      "DDEBPREAVIS": "",
+      "DSORTIE": "2023-05-19",
+      "MOTCHG": "",
+      "MOTIFENTREE": "",
+      "MOTIFSORTIE": "$dep",
+      "MRGL": "R1"
+    },
+    "S2TYPECONTRAT": {
+      "MMAT": "7000104",
+      "DDEB": "2023-05-19",
+      "DFIN": "2024-05-01",
+      "CDDCDI": "",
+      "CDDREN": "",
+      "STAGTUTCIV": "",
+      "CONTRATPARTIC": "",
+      "DDEBRENOU": "",
+      "DFINCDD1": "2024-05-01",
+      "DFINCDD2": "",
+      "CONTRATPARTDATEDIP": "",
+      "MATREMPL": "",
+      "MOTCHG": "New Position",
+      "MOTIFCDD": "",
+      "DIPLOME_PREPA": "",
+      "CODECDDCDI": "false",
+      "CODERENOUV": "false",
+      "TYPCONTRAT": "$cdd"
+    },
+    "S2ETA": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "DIRECTION": "SCH",
+      "DPT": "Dpt_54548 [R30]",
+      "META": "R30"
+    },
+    "S2ANALYT": {
+      "MMAT": "7000104",
+      "DDEB": "2023-05-19",
+      "DFIN": "",
+      "POURANA1": "100",
+      "CODEANA1": "",
+      "AXE11": "",
+      "AXE12": ""
+    },
+    "S2CATEG": {
+      "MMAT": "7000104",
+      "DDEB": "2023-05-19",
+      "DFIN": "",
+      "CATEGSP": "",
+      "STATUT": ""
+    },
+    "S2EMPLOI": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "CEMPLOI": "LOGISTICS SPECIALIST",
+      "MOTCHG": ""
+    },
+    "S2REMUPTS": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "ECHELON": "",
+      "NIVEAU": ""
+    },
+    "S2REMUNER": [
+      {
+        "MMAT": "7000104",
+        "DDEB": "2023-06-06",
+        "DFIN": "",
+        "AUGPOURIND": "60",
+        "REMANU": "3075.0"
+      },
+      {
+        "MMAT": "7000104",
+        "DDEB": "2023-06-07",
+        "DFIN": "",
+        "AUGPOURIND": "70",
+        "REMANU": ""
+      }
+    ],
+    "S2MODEPAI": [
+      {
+        "MMAT": "7000104",
+        "DDEB": "2023-05-19",
+        "DFIN": "",
+        "BBAN1": "",
+        "BIC1": "",
+        "BNQSRC1": "SG",
+        "BENEFIC1": "I'm the account owner !",
+        "CLERIB1": "58",
+        "BANQUE1": "J0300",
+        "GUICHET1": "20328",
+        "DOMICIL1": "",
+        "IBAN1": "IT82J0300203280367225421158",
+        "CMODEPAI1": "$vir",
+        "TYPE": "$rglSAL"
+      }
+    ],
+    "S1TITRETRAV": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "NOTITRE": "",
+      "PREF": "",
+      "TITRE": ""
+    },
+    "S1ENFPC": {
+      "MMAT": "7000104",
+      "DDECES": "",
+      "DFINPC": "",
+      "DNAISS": "",
+      "HANDICAP": "false",
+      "NOM1": "",
+      "PRENOM1": "",
+      "PRENOM2": "",
+      "SEXE": "",
+      "TYPEPC1": "",
+      "TYPEPC2": ""
+    },
+    "S2ESSAI": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "DUREE": "",
+      "CODERENOUVPE": "$empty",
+      "UNITE": ""
+    },
+    "S1CONJOINT": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "DNAISS": "",
+      "NOM1": "",
+      "LNPAYS": "",
+      "PRENOM1": ""
+    },
+    "S2BOETH": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "STATUT": ""
+    },
+    "S2CASPART": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "TAUXBONUS": ""
+    },
+    "S2CLAUSES": {
+      "MMAT": "7000104",
+      "DDEB": "",
+      "DFIN": "",
+      "CASIER": "",
+      "CNC": "",
+      "INTERET": "",
+      "IMAGE": "",
+      "MONTANT": "",
+      "NBMOIS": "",
+      "REGION": ""
+    }
+  },
+  {
+    "S1IDE": {
+      "MMAT": "9000489",
+      "CIVILITE": "",
+      "LNCODECOM": "",
+      "LNNOMCOM": "",
+      "DNAISS": "",
+      "DSITFAM": "",
+      "LNDPT": "",
+      "NATIONAL": "",
+      "NOM1": "",
+      "NOMJF": "",
+      "NUMNAT": "",
+      "LNPAYS": "",
+      "PRENOM1": "",
+      "SEXE": "",
+      "SITFAM": ""
+    },
+    "S1ADR": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "ADRBIS": "",
+      "ADRVILLE": "",
+      "CPAM": "",
+      "ADRINSEE": "",
+      "ADRCPOS": "",
+      "ADRCOMM": "",
+      "ADRCOMP": "",
+      "ADRMAIL": "",
+      "ADRNUM": "",
+      "ADRPAYS": "",
+      "ADRRUE": "",
+      "ADRTEL1": "",
+      "ADRMOB": ""
+    },
+    "S1CONTRAT": {
+      "MMAT": "9000489",
+      "DDEB": "2023-05-19",
+      "DFIN": "2023-05-19",
+      "DANC1": "2023-05-19",
+      "DANC2": "2023-05-19",
+      "DSOLDE": "2023-05-19",
+      "DDEBPREAVIS": "",
+      "DSORTIE": "2023-05-19",
+      "MOTCHG": "",
+      "MOTIFENTREE": "",
+      "MOTIFSORTIE": "$dep",
+      "MRGL": "R1"
+    },
+    "S2TYPECONTRAT": {
+      "MMAT": "9000489",
+      "DDEB": "2023-05-19",
+      "DFIN": "2024-05-01",
+      "CDDCDI": "",
+      "CDDREN": "",
+      "STAGTUTCIV": "",
+      "CONTRATPARTIC": "",
+      "DDEBRENOU": "",
+      "DFINCDD1": "2024-05-01",
+      "DFINCDD2": "",
+      "CONTRATPARTDATEDIP": "",
+      "MATREMPL": "",
+      "MOTCHG": "New Position",
+      "MOTIFCDD": "",
+      "DIPLOME_PREPA": "",
+      "CODECDDCDI": "false",
+      "CODERENOUV": "false",
+      "TYPCONTRAT": "$cdd"
+    },
+    "S2ETA": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "DIRECTION": "SCH",
+      "DPT": "Dpt_54548 [R30]",
+      "META": "R30"
+    },
+    "S2ANALYT": {
+      "MMAT": "7000104",
+      "DDEB": "2023-05-19",
+      "DFIN": "",
+      "POURANA1": "100",
+      "CODEANA1": "",
+      "AXE11": "",
+      "AXE12": ""
+    },
+    "S2CATEG": {
+      "MMAT": "9000489",
+      "DDEB": "2023-05-19",
+      "DFIN": "",
+      "CATEGSP": "",
+      "STATUT": ""
+    },
+    "S2EMPLOI": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "CEMPLOI": "LOGISTICS SPECIALIST",
+      "MOTCHG": ""
+    },
+    "S2REMUPTS": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "ECHELON": "",
+      "NIVEAU": ""
+    },
+    "S2REMUNER": [
+      {
+        "MMAT": "9000489",
+        "DDEB": "2023-06-06",
+        "DFIN": "",
+        "AUGPOURIND": "60",
+        "REMANU": "3075.0"
+      },
+      {
+        "MMAT": "9000489",
+        "DDEB": "2023-06-07",
+        "DFIN": "",
+        "AUGPOURIND": "70",
+        "REMANU": ""
+      }
+    ],
+    "S2MODEPAI": [
+      {
+        "MMAT": "9000489",
+        "DDEB": "2023-05-19",
+        "DFIN": "",
+        "BBAN1": "",
+        "BIC1": "",
+        "BNQSRC1": "SG",
+        "BENEFIC1": "I'm the account owner !",
+        "CLERIB1": "58",
+        "BANQUE1": "J0300",
+        "GUICHET1": "20328",
+        "DOMICIL1": "",
+        "IBAN1": "IT82J0300203280367225421158",
+        "CMODEPAI1": "$vir",
+        "TYPE": "$rglSAL"
+      }
+    ],
+    "S1TITRETRAV": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "NOTITRE": "",
+      "PREF": "",
+      "TITRE": ""
+    },
+    "S1ENFPC": {
+      "MMAT": "9000489",
+      "DDECES": "",
+      "DFINPC": "",
+      "DNAISS": "",
+      "HANDICAP": "false",
+      "NOM1": "",
+      "PRENOM1": "",
+      "PRENOM2": "",
+      "SEXE": "",
+      "TYPEPC1": "",
+      "TYPEPC2": ""
+    },
+    "S2ESSAI": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "DUREE": "",
+      "CODERENOUVPE": "$empty",
+      "UNITE": ""
+    },
+    "S1CONJOINT": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "DNAISS": "",
+      "NOM1": "",
+      "LNPAYS": "",
+      "PRENOM1": ""
+    },
+    "S2BOETH": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "STATUT": ""
+    },
+    "S2CASPART": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "TAUXBONUS": ""
+    },
+    "S2CLAUSES": {
+      "MMAT": "9000489",
+      "DDEB": "",
+      "DFIN": "",
+      "CASIER": "",
+      "CNC": "",
+      "INTERET": "",
+      "IMAGE": "",
+      "MONTANT": "",
+      "NBMOIS": "",
+      "REGION": ""
+    }
+  }
+]
