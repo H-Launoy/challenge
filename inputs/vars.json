@@ -1,1 +1,37 @@
-{"test":"ok"}
+{"Reference":
+	{
+		"Id":1,
+		"intitulé":"Bagues",
+		"details":[
+			"Bague Or",
+			"Bague Diamant",
+			"Bague Platine"
+		]
+	},
+		{
+		"Id":2,
+		"intitulé":"Colliers",
+		"details":[
+			"Collier Perles",
+			"Pendentif Saphir",
+			"Collier Emeraude"
+		]
+	},
+	{
+		"Id":3,
+		"intitulé":"Bagues",
+		"details":[
+			"Bracelet Argent",
+			"Bracelet Or"
+		]
+	},
+	{
+		"Id":4,
+		"intitulé":"Boucles d'oreilles",
+		"details":[
+			"Boucles Diamant",
+			"Boucles Rubis"
+		]
+	}
+
+}
