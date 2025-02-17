@@ -1,5 +1,5 @@
 {"Reference":
-	{
+	[{
 		"Id":1,
 		"intitulé":"Bagues",
 		"details":[
@@ -19,7 +19,7 @@
 	},
 	{
 		"Id":3,
-		"intitulé":"Bagues",
+		"intitulé":"Bracelets",
 		"details":[
 			"Bracelet Argent",
 			"Bracelet Or"
@@ -32,6 +32,6 @@
 			"Boucles Diamant",
 			"Boucles Rubis"
 		]
-	}
+	}]
 
 }
