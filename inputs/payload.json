@@ -1,14 +1,14 @@
 {
   "ventes": [
-    {"referenceLigne": "1", "categorie": 1 "region": "Europe", "quantite": 3, "prix_unitaire": 1200, "date": "2024-01-12"},
+    {"referenceLigne": "1", "categorie": 1, "region": "Europe", "quantite": 3, "prix_unitaire": 1200, "date": "2024-01-12"},
     {"referenceLigne": "1", "categorie": 4, "region": "Europe", "quantite": 2, "prix_unitaire": 5000, "date": "2024-03-05"},
-    {"referenceLigne": "3", "categorie": 1 "region": "Asie", "quantite": 1, "prix_unitaire": 7000, "date": "2024-03-10"},
+    {"referenceLigne": "3", "categorie": 1, "region": "Asie", "quantite": 1, "prix_unitaire": 7000, "date": "2024-03-10"},
     {"referenceLigne": "2", "categorie": 2, "region": "Asie", "quantite": 3, "prix_unitaire": 4000, "date": "2024-03-22"},
     {"referenceLigne": "2", "categorie": 3, "region": "Amérique", "quantite": 7, "prix_unitaire": 600, "date": "2024-04-25"},
     {"referenceLigne": "2", "categorie": 4, "region": "Asie", "quantite": 4, "prix_unitaire": 4200, "date": "2024-05-15"},
     {"referenceLigne": "1", "categorie": 3, "region": "Amérique", "quantite": 5, "prix_unitaire": 800, "date": "2024-02-08"},
     {"referenceLigne": "3", "categorie": 2, "region": "Europe", "quantite": 3, "prix_unitaire": 5800, "date": "2024-06-10"},
     {"referenceLigne": "1", "categorie": 2, "region": "Europe", "quantite": 2, "prix_unitaire": 2500, "date": "2024-01-20"},    
-    {"referenceLigne": "2", "categorie": 1 "region": "Amérique", "quantite": 2, "prix_unitaire": 10500, "date": "2024-06-18"}
+    {"referenceLigne": "2", "categorie": 1, "region": "Amérique", "quantite": 2, "prix_unitaire": 10500, "date": "2024-06-18"}
   ]
 }
