@@ -1,0 +1,152 @@
+{
+  "total_vente_WW": 120800,
+  "ventes_par_region": {
+    "region": "Europe",
+    "total_region": 36000,
+    "catégories": {
+      "Bagues": [
+        {
+          "matière": "Or",
+          "quantité": 3,
+          "prix unitaire": 1200,
+          "total_article": 3600,
+          "% categorie": 100,
+          "% region": 10,
+          "% WW": 3
+        }
+      ],
+      "Boucles d'oreilles": [
+        {
+          "matière": "Diamant",
+          "quantité": 2,
+          "prix unitaire": 5000,
+          "total_article": 10000,
+          "% categorie": 100,
+          "% region": 28,
+          "% WW": 8
+        }
+      ],
+      "Colliers": [
+        {
+          "matière": "Emeraude",
+          "quantité": 3,
+          "prix unitaire": 5800,
+          "total_article": 17400,
+          "% categorie": 78,
+          "% region": 48,
+          "% WW": 14
+        },
+        {
+          "matière": "Perles",
+          "quantité": 2,
+          "prix unitaire": 2500,
+          "total_article": 5000,
+          "% categorie": 22,
+          "% region": 14,
+          "% WW": 4
+        }
+      ]
+    },
+    "region": "Amérique",
+    "total_region": 46500,
+    "catégories": {
+      "Bagues": [
+        {
+          "matière": "Or",
+          "quantité": 4,
+          "prix unitaire": 1200,
+          "total_article": 4800,
+          "% categorie": 19,
+          "% region": 10,
+          "% WW": 4
+        },
+        {
+          "matière": "Diamant",
+          "quantité": 2,
+          "prix unitaire": 10500,
+          "total_article": 21000,
+          "% categorie": 81,
+          "% region": 45,
+          "% WW": 17
+        }
+      ],
+      "Colliers": [
+        {
+          "matière": "Perles",
+          "quantité": 5,
+          "prix unitaire": 2500,
+          "total_article": 12500,
+          "% categorie": 100,
+          "% region": 27,
+          "% WW": 10
+        }
+      ],
+      "Bracelets": [
+        {
+          "matière": "Or",
+          "quantité": 7,
+          "prix unitaire": 600,
+          "total_article": 4200,
+          "% categorie": 51,
+          "% region": 9,
+          "% WW": 3
+        },
+        {
+          "matière": "Argent",
+          "quantité": 5,
+          "prix unitaire": 800,
+          "total_article": 4000,
+          "% categorie": 49,
+          "% region": 9,
+          "% WW": 3
+        }
+      ]
+    },
+    "region": "Asie",
+    "total_region": 38300,
+    "catégories": {
+      "Bagues": [
+        {
+          "matière": "Platine",
+          "quantité": 1,
+          "prix unitaire": 7000,
+          "total_article": 7000,
+          "% categorie": 100,
+          "% region": 18,
+          "% WW": 6
+        }
+      ],
+      "Colliers": [
+        {
+          "matière": "Saphir",
+          "quantité": 3,
+          "prix unitaire": 4000,
+          "total_article": 12000,
+          "% categorie": 83,
+          "% region": 31,
+          "% WW": 10
+        },
+        {
+          "matière": "Perles",
+          "quantité": 1,
+          "prix unitaire": 2500,
+          "total_article": 2500,
+          "% categorie": 17,
+          "% region": 7,
+          "% WW": 2
+        }
+      ],
+      "Boucles d'oreilles": [
+        {
+          "matière": "Rubis",
+          "quantité": 4,
+          "prix unitaire": 4200,
+          "total_article": 16800,
+          "% categorie": 100,
+          "% region": 44,
+          "% WW": 14
+        }
+      ]
+    }
+  }
+}
