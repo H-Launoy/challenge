@@ -1,5 +1,4 @@
 %dw 2.0
-output application/dw
 fun calculerVentes(produit) = produit.quantite * produit.prix_unitaire
 
 fun trouverMeilleurProduit(produits) =
