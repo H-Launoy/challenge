@@ -1,17 +1,17 @@
 {
   "ventes": [
-    {"referenceLigne": "1", "categorie": 1, "region": "Europe", "quantite": 3, "prix_unitaire": 1200},
-    {"referenceLigne": "1", "categorie": 4, "region": "Europe", "quantite": 2, "prix_unitaire": 5000},
-    {"referenceLigne": "1", "categorie": 1, "region": "Amérique", "quantite": 4, "prix_unitaire": 1200},
-    {"referenceLigne": "1", "categorie": 2, "region": "Amérique", "quantite": 5, "prix_unitaire": 2500}, 
-    {"referenceLigne": "3", "categorie": 1, "region": "Asie", "quantite": 1, "prix_unitaire": 7000},
-    {"referenceLigne": "2", "categorie": 2, "region": "Asie", "quantite": 3, "prix_unitaire": 4000},
-    {"referenceLigne": "2", "categorie": 3, "region": "Amérique", "quantite": 7, "prix_unitaire": 600},
-    {"referenceLigne": "2", "categorie": 4, "region": "Asie", "quantite": 4, "prix_unitaire": 4200},
-    {"referenceLigne": "1", "categorie": 3, "region": "Amérique", "quantite": 5, "prix_unitaire": 800},
-    {"referenceLigne": "3", "categorie": 2, "region": "Europe", "quantite": 3, "prix_unitaire": 5800},
-    {"referenceLigne": "1", "categorie": 2, "region": "Europe", "quantite": 2, "prix_unitaire": 2500},
-    {"referenceLigne": "1", "categorie": 2, "region": "Asie", "quantite": 1, "prix_unitaire": 2500},    
-    {"referenceLigne": "2", "categorie": 1, "region": "Amérique", "quantite": 2, "prix_unitaire": 10500}
+    {"referenceLigne": "1", "categorie": 1, "region": "EMEA", "quantite": 3, "prix_unitaire": 1200},
+    {"referenceLigne": "1", "categorie": 4, "region": "EMEA", "quantite": 2, "prix_unitaire": 5000},
+    {"referenceLigne": "1", "categorie": 1, "region": "AMER", "quantite": 4, "prix_unitaire": 1200},
+    {"referenceLigne": "1", "categorie": 2, "region": "AMER", "quantite": 5, "prix_unitaire": 2500}, 
+    {"referenceLigne": "3", "categorie": 1, "region": "ASIA", "quantite": 1, "prix_unitaire": 7000},
+    {"referenceLigne": "2", "categorie": 2, "region": "ASIA", "quantite": 3, "prix_unitaire": 4000},
+    {"referenceLigne": "2", "categorie": 3, "region": "AMER", "quantite": 7, "prix_unitaire": 600},
+    {"referenceLigne": "2", "categorie": 4, "region": "ASIA", "quantite": 4, "prix_unitaire": 4200},
+    {"referenceLigne": "1", "categorie": 3, "region": "AMER", "quantite": 5, "prix_unitaire": 800},
+    {"referenceLigne": "3", "categorie": 2, "region": "EMEA", "quantite": 3, "prix_unitaire": 5800},
+    {"referenceLigne": "1", "categorie": 2, "region": "EMEA", "quantite": 2, "prix_unitaire": 2500},
+    {"referenceLigne": "1", "categorie": 2, "region": "ASIA", "quantite": 1, "prix_unitaire": 2500},    
+    {"referenceLigne": "2", "categorie": 1, "region": "AMER", "quantite": 2, "prix_unitaire": 10500}
   ]
 }
