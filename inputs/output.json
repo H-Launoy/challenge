@@ -2,7 +2,7 @@
   "total_vente_WW": 120800,
   "ventes_par_region": [
     {
-      "region": "Europe",
+      "region": "EMEA",
       "total_region": 36000,
       "catégories": {
         "Bagues": [
@@ -50,7 +50,7 @@
       }
     },
     {
-      "region": "Amérique",
+      "region": "AMER",
       "total_region": 46500,
       "catégories": {
         "Bagues": [
@@ -107,7 +107,7 @@
       }
     },
     {
-      "region": "Asie",
+      "region": "ASIA",
       "total_region": 38300,
       "catégories": {
         "Bagues": [
